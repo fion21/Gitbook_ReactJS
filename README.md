@@ -1,6 +1,8 @@
 # Gitbook
 
-> React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management inspired by the "Modern React Front To Back" Udemy course
+> ReactJS app to search Github profiles. 
+
+This app uses the Context API along with the useContext and useReducer hooks for state management inspired by "React Front To Back" App.
 
 ## Usage
 
