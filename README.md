@@ -1,10 +1,11 @@
 # Gitbook
 
-> ReactJS app to search Github profiles. 
+### ReactJS app to search Github profiles
+[Live site](https://gitbook-react.herokuapp.com)
 
-This app uses the Context API along with the useContext and useReducer hooks for state management inspired by "React Front To Back" App.
+This search profile app uses the `Context API` and the `useContext` and `useReducer` hooks for state management inspired by "React Front To Back" Brad Traversy Course.
 
-## Usage
+## CLI commands
 
 ### `npm install`
 
@@ -13,6 +14,3 @@ This app uses the Context API along with the useContext and useReducer hooks for
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
