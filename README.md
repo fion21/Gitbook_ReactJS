@@ -9,6 +9,8 @@ This search profile app uses the `Context API` and the `useContext` and `useRedu
 ## UI/UX
 This mimics the function of searching for a profile, such as can be found on Facebook, Linkedin or Instagram. Here is this feature for Gihub's handle.
 
+
+
 ## CLI commands
 
 ### `npm install`
