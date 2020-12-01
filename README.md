@@ -8,7 +8,7 @@ This search profile app uses the `Context API` and the `useContext` and `useRedu
 ## UI/UX
 This mimics the function of searching for a profile, such as can be found on Facebook, Linkedin or Instagram. Here is this feature for Gihub's handle.
 
-<img src="https://github.com/fion21/Gitbook_ReactJS/blob/master/public/Screenshot%202020-12-01%20at%2013.27.44.png" width="200" height="200" />
+<img src="https://github.com/fion21/Gitbook_ReactJS/blob/master/public/Screenshot%202020-12-01%20at%2013.27.44.png" width="200" height="150" />
 
 
 ## CLI commands
