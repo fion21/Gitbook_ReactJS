@@ -1,7 +1,7 @@
 # Gitbook
 
 ### ReactJS app to search Github profiles
-[Live site](https://gitbook-react.herokuapp.com)
+[Live site](https://fion21.github.io/Gitbook_ReactJS)
 
 This search profile app uses the `Context API` and the `useContext` and `useReducer` hooks for state management inspired by "React Front To Back" Brad Traversy Course.
 
